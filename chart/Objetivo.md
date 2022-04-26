@@ -12,6 +12,10 @@
 ##  MATERIAL DE REFERÊNCIA E ESTUDO:
 
 - https://www.youtube.com/watch?v=XCybE3hc52Y
-- https://www.youtube.com/watch?v=xSRnJgEJ6RY&list=PLc1g3vwxhg1Vo8kThbJ4poW4CNB8zeVdK
 - https://www.chartjs.org/
 - https://www.chartjs3.com/docs/chart/
+
+## PARA ASSISTIR:
+- https://www.youtube.com/watch?v=xSRnJgEJ6RY&list=PLc1g3vwxhg1Vo8kThbJ4poW4CNB8zeVdK
+- https://www.youtube.com/watch?v=NySBh_DIRlg&list=PLc1g3vwxhg1WOgHSDWWUFljioMJxepLX4
+- https://www.youtube.com/watch?v=t-6RdpK43Tc&list=PLc1g3vwxhg1Xr2r2VodhuthKo0GClc7V8&index=3
